@@ -13,7 +13,7 @@ body{
   font-family: "Lato", sans-serif;
 }
 
-
+/* css for box header */
 .box-header{
   position: absolute;
     margin-left: -1rem;
@@ -32,6 +32,7 @@ body{
   font-size: 1.5rem;
 }
 
+/* styling for parent div */ 
 .parent{
     margin-top: 4rem;
     width: 60rem;
@@ -44,14 +45,14 @@ body{
 }
 
 
-
+/* styling for child div image */
 img{
   width: 100%;
   display: block;
   height: 20rem;
 }
 
-
+/* styling for child div */
 .child{
   display: grid;
   align-items: center;

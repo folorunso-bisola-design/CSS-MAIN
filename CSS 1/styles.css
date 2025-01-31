@@ -10,7 +10,7 @@ body{
     background: rgb(28, 28, 28);
 }
 
-
+/* styling for otter essay */
 .box-header{
     margin-left: 1.25rem;
     margin-right: 1.25rem;
@@ -40,6 +40,7 @@ body{
     font-weight: bolder;
 }
 
+/* styling for container*/
 .container{
 margin: 150px;
 }

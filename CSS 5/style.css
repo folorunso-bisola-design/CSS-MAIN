@@ -48,7 +48,7 @@ margin-bottom: 7px;
     padding: 5px;
 }
 
-
+/* styling for container */
 .container{
     display: grid;
     grid-template-columns: 2.5fr 1.3fr;
@@ -61,6 +61,8 @@ margin-bottom: 7px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+/* styling for left child div */
+
 .left-child{
     background: white;
 }
@@ -72,6 +74,8 @@ margin-bottom: 7px;
     font-weight: 100;
     border-bottom: 3px solid rgb(234, 234, 242);
 }
+
+/* styling for left child input and label layout */
 
 .rows{
     display: flex;
@@ -204,7 +208,7 @@ margin-bottom: 7px;
 }
 
 
-
+/* styling for right child div */
 .right-child{
     color: white;
     padding-top: 30px;

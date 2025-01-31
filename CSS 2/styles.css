@@ -6,7 +6,7 @@
     font-family: lato;
 }
 
-
+/* styling for first section div */
 
 #first-div{
     padding: 72px 264px 65px 245px;
@@ -37,7 +37,7 @@ h2{
 
 
 
-
+/*styling for second section div */
 .second-div{
     padding: 72px 264px 65px 245px;
     top: 300px;
@@ -62,6 +62,7 @@ h2{
 #second-div-p2{
     margin-top: 1rem;
 }
+
 
 .box-header{
     position: absolute;

@@ -14,9 +14,9 @@ body{
     padding-top: 5rem;
     padding-left: 7rem;
     padding-right: 2rem;
-    
 }
 
+/* styling for divs */
 .parent-div{
     display: flex;
 }
@@ -42,7 +42,7 @@ h2{
 }
 
 
-
+/* styling for form container */
 .form-container{
     width: 580px;
     height: 550px;
